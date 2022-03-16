@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dgcmain
+- 👋 Hi, I’m Dave
 - 👀 I’m interested in AI, Data Science, Block Chain and Algorithms
 - 📫 How to reach me ...
 
